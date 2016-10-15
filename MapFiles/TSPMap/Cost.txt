@@ -1,0 +1,8 @@
+City8 J2 10
+J2 City3 20
+J1 City3 5
+J1 ColdStorage 10
+City7 ColdStorage 10
+City6 City7 50
+City8 City7 10
+ColdStorage J2 20
